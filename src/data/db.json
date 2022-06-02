@@ -1,0 +1,29 @@
+{
+    "products": 
+    [
+        {
+            "name": "SmartPhone",
+            "price": 30,
+            "id": 0,
+            "img":"https://media.kasperskydaily.com/wp-content/uploads/sites/92/2019/12/19090351/smartphone-spying-protection-featured.jpg"
+        },
+        {
+            "name": "Watch",
+            "price": 20,
+            "id": 1,
+            "img":"https://images.squarespace-cdn.com/content/v1/52d654d2e4b0a3af71bf6bcc/1627659581969-5EA7H241G2YETQFQFGF9/SIF+1948+white+dial?format=1000w"
+        },
+        {
+            "name": "Shirt",
+            "price": 50,
+            "id": 2,
+            "img":"https://www.collinsdictionary.com/images/full/tshirt_204029461_1000.jpg"
+        },
+        {
+            "name": "Pants",
+            "price": 100,
+            "id": 3,
+            "img":"https://assets.ajio.com/medias/sys_master/root/h89/hbe/13459792265246/-473Wx593H-440995277-olive-MODEL2.jpg"
+        }
+    ]
+}
